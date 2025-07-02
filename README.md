@@ -1,4 +1,4 @@
-#📝 Blog CRUD
+# 📝 Blog CRUD
 
 Estudo com React, JavaScript e Axios
 Este projeto é um estudo prático de um CRUD (Create, Read, Update, Delete) básico em formato de blog. Desenvolvido com React, utilizando JavaScript puro e Axios para consumo de uma API externa.
